@@ -1,0 +1,11 @@
+Package: simulate.jheem
+Type: Package
+Title: Set up, run, and process simulations using the JHEEM engine
+Version: 1.0
+Date: 2022-07-23
+Author: Anthony Fojo
+Maintainer: Anthony Fojo <anthony.fojo@jhmi.edu>
+Description: The meta code that uses the jheem package to define a model, populate parameters, and run simulations from the model.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.9), ggplot2
+LinkingTo: Rcpp
